@@ -20,11 +20,15 @@ function App() {
           Flowing into Websites & Marketing! Get Some of It Now!
         </h1>
         <div className="buttons-container">
-          <button>Buy Leads</button>
-          <button>Get Dialer</button>
-          <button>Get Site</button>
-          <button>Join Us Play</button>
-          <button>Video</button>
+          <div className="upper-buttons">
+            <button>Buy Leads</button>
+            <button>Get Dialer</button>
+          </div>
+          <div className="lower-buttons">
+            <button>Get Site</button>
+            <button>Join Us Play</button>
+            <button>Video</button>
+          </div>
         </div>
       </div>
     </div>

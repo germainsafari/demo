@@ -20,7 +20,7 @@ header a {
 }
 
 .hero {
-  background: url('your-background-image.jpg') center/cover no-repeat;
+  background: url('https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=sph') center/cover no-repeat;
   height: 500px;
   display: flex;
   flex-direction: column;
